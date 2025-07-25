@@ -51,5 +51,6 @@ This guide shows a sample onboarding journey using the app, with example data fo
 - For real integration, connect the onboarding flow to your backend and Azure AD.
 
 ---
-
+<img width="385" height="346" alt="image" src="https://github.com/user-attachments/assets/3497d879-e74d-4f47-8985-bc73d80c7d02" />
+WORKFLOW
 Enjoy your seamless onboarding experience! 
